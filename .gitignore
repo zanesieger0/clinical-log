@@ -1,0 +1,4 @@
+# Plain-text entries and the password stay on this Mac only.
+entries/
+.site-password
+.DS_Store
